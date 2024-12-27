@@ -1,8 +1,46 @@
-# Portfolio
----
-## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+# Generative AI Engineering with LLMs
+---
+
+
+## Generative AI and LLMs: Architecture and Data Preparation
+
+### Module 1 : Architecture and Data Preparation
+ - [Introduction to Generative AI]()
+ - [Generative AI Architecture and Models]()
+ - [Generative AI for NLP]()
+ - [Basics of AI Hallucinations]()
+ - [Overview of Libraries and Tool]()
+ - [![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)]() Exploring Gen AI libraries
+
+### Module 2 : Data Preparation for LLMs
+- [Tokenization]()
+- [![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)]() Implementing Tokenization
+- [Overview of Data Loaders]()
+- [Data Quality and Diversity for Effective LLM Training]()
+- [![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)](/ef) Creating an NLP Data Loader
+  
+---
+## Foundational Models for NLP and Language Understanding
+
+### Module 1.1 : Language Understanding with Neural Networks
+
+- [Converting Words to Features](https://github.com/VickyCrasto/GenAI_LLM/blob/main/projects/ames-house-price.html)
+- [Document Categorization Prediction with Torchtext]()
+- [Training the Model in PyTorch]()
+- ![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)](/ef) Classifying Documents
+
+### Module 1.2 : N-Gram Model
+-[]()
+-[]()
+-[]()
+-[]()
+
+
+
+
+
+
 
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/VickyCrasto/GenAI_LLM/blob/main/projects/ames-house-price.html)).
