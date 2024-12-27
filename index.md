@@ -7,7 +7,7 @@
 
 ### Module 1 : Architecture and Data Preparation
  - [Introduction to Generative AI](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.1_Introduction_to_GenerativeAI.md)
- - [Generative AI Architecture and Models](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.2_ GenAI_ Architecture_and_Models.md)
+ - [Generative AI Architecture and Models](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.2_GenAI_ Architecture_and_Models.md)
  - [Generative AI for NLP](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.3_GenerativeAI_for_NLP.md)
  - [Basics of AI Hallucinations](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.4_Basics_of_AI_Hallucinations.pdf)
  - [Overview of Libraries and Tool](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.5_Overview_of_Libraries_and_Tools.pdf)
@@ -31,10 +31,10 @@
 - ![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)](/ef) Classifying Documents
 
 ### Module 1.2 : N-Gram Model
--[]()
--[]()
--[]()
--[]()
+- [Language Modeling with N Grams](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/2_GenAI_NLP_Language_Understanding\2.1_Language_Modeling_with_NGrams.md)
+- [N Grams as Neural Networks with PyTorch]((https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/2_GenAI_NLP_Language_Understanding\2.2_NGrams_NeuralNetwork_with_Pytorch.md)
+- []((https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/2_GenAI_NLP_Language_Understanding\)
+- []((https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/2_GenAI_NLP_Language_Understanding\)
 
 
 
