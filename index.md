@@ -6,11 +6,11 @@
 ## Generative AI and LLMs: Architecture and Data Preparation
 
 ### Module 1 : Architecture and Data Preparation
- - [Introduction to Generative AI]()
- - [Generative AI Architecture and Models]()
- - [Generative AI for NLP]()
- - [Basics of AI Hallucinations]()
- - [Overview of Libraries and Tool]()
+ - [Introduction to Generative AI](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture and Data Preparation/1.1 Introduction to Generative AI.md)
+ - [Generative AI Architecture and Models](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture and Data Preparation/1.2 GenAI Architecture and Models.md)
+ - [Generative AI for NLP](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture and Data Preparation/1.3 Generative AI for NLP.md)
+ - [Basics of AI Hallucinations](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture and Data Preparation/1.4 Basics of AI Hallucinations.pdf)
+ - [Overview of Libraries and Tool](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture and Data Preparation/1.5 Overview of Libraries and Tools.pdf)
  - [![](https://img.shields.io/badge/Jupyter-_Notebook-blue?logo=Jupyter)]() Exploring Gen AI libraries
 
 ### Module 2 : Data Preparation for LLMs
