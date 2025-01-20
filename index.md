@@ -37,10 +37,10 @@
 - [](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/2_GenAI_NLP_Language_Understanding/)
 
 
+# NPTEL Course : Intro LLMs. Prof. Tanomy Chakroborty
 
-
-
-
+### Week 1 
+- [Introduction to Language Models](https://github.com/VickyCrasto/GenAI_LLM/blob/main/posts/01_Architecture_and_Data_Preparation/1.1_Introduction_to_GenerativeAI.md)
 
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/VickyCrasto/GenAI_LLM/blob/main/projects/ames-house-price.html)).
